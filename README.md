@@ -1,2 +1,2 @@
 # first-git-rep
-Prvi repository
+Prvi repository, edited 
